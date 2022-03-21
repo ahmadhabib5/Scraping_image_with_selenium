@@ -1,5 +1,5 @@
 opencv-python
-pillow
+pillow~=9.0.1
 tqdm
 lxml
 jupyter
@@ -9,4 +9,5 @@ scikit-learn
 h5py
 Cython
 beautifulsoup4
-requests
+requests~=2.27.1
+selenium~=4.1.0
